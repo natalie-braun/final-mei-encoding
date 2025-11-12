@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://music-encoding.org/schema/5.1/mei-CMN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://music-encoding.org/schema/5.1/mei-CMN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xml:id="mtr2vap2" meiversion="5.1" xmlns="http://www.music-encoding.org/ns/mei">
+    <meiHead xml:id="msvehhu1">
+        <fileDesc xml:id="f2zxnzt1">
+            <titleStmt xml:id="toxqqtj1">
+                <title xml:id="t9y8yse">On Melancholy Hill</title>
+                <composer xml:id="ck4dyna">
+                    <persName xml:id="pn27s8m1" role="composer">Gorillaz</persName>
+                </composer>
+                <respStmt xml:id="r7bq7ra1">
+                    <persName xml:id="pe2p2ff1" role="encoder">Natalie Braun</persName>
+                </respStmt>
+            </titleStmt>
+            <pubStmt xml:id="pf4plqp1"/>
+            <sourceDesc>
+                <source>
+                    <bibl facs="https://www.youtube.com/watch?v=jdcZTbGPzjA">
+                        <editor>
+                            <persName auth.uri="https://www.youtube.com/@PHianonize">
+                                PHianonize on Youtube
+                            </persName>
+                        </editor>
+                        <publisher>
+                            <corpName auth.uri="https://www.youtube.com/">Youtube.com</corpName>
+                        </publisher>
+                    </bibl>
+                </source>
+            </sourceDesc>
+        </fileDesc>
+    </meiHead>
